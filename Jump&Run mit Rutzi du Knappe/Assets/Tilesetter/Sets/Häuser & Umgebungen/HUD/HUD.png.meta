@@ -149,15 +149,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: HUD_0
+      name: Zustand_1
       rect:
         serializedVersion: 2
         x: 0
         y: 32
         width: 26
         height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -170,15 +170,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HUD_1
+      name: Zustand_2
       rect:
         serializedVersion: 2
         x: 32
         y: 32
         width: 25
         height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -191,168 +191,147 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HUD_2
+      name: Zustand_3
       rect:
         serializedVersion: 2
         x: 64
         y: 32
         width: 25
         height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 42305410000000000800000000000000
+      spriteID: a9777b51f5860b34fae932348d50bb8e
       internalID: 21300004
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HUD_3
+      name: Zustand_4
       rect:
         serializedVersion: 2
         x: 96
         y: 32
         width: 21
         height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 62305410000000000800000000000000
+      spriteID: 08e15caac1f7b56409ae1773b7c1e2b8
       internalID: 21300006
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HUD_4
+      name: Hauptzustand
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 26
         height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 82305410000000000800000000000000
+      spriteID: bd73cfe960e50fa4db4a88b1e59a02ed
       internalID: 21300008
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HUD_5
+      name: Leben
       rect:
         serializedVersion: 2
         x: 35
         y: 0
         width: 10
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a2305410000000000800000000000000
+      spriteID: 3e7fab0ced50f4741be826a1f41261dc
       internalID: 21300010
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HUD_6
+      name: Timer_3
       rect:
         serializedVersion: 2
         x: 65
-        y: 1
-        width: 7
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        y: 0
+        width: 15
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c2305410000000000800000000000000
+      spriteID: 939e868f9ff0e9d4d9161745d452e5f9
       internalID: 21300012
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HUD_7
-      rect:
-        serializedVersion: 2
-        x: 73
-        y: 0
-        width: 7
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: HUD_8
+      name: Timer_2
       rect:
         serializedVersion: 2
         x: 82
         y: 0
         width: 13
         height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 03305410000000000800000000000000
+      spriteID: ee5fdd8df17df5c48b6676e9bf07127f
       internalID: 21300016
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HUD_9
+      name: Timer_1
       rect:
         serializedVersion: 2
         x: 99
         y: 0
         width: 11
         height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 23305410000000000800000000000000
+      spriteID: 6be757ae884d0414d95083dbb2fd46c1
       internalID: 21300018
       vertices: []
       indices: 
@@ -369,16 +348,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      HUD_3: 21300006
-      HUD_1: 21300002
-      HUD_2: 21300004
-      HUD_9: 21300018
-      HUD_8: 21300016
-      HUD_6: 21300012
-      HUD_4: 21300008
-      HUD_5: 21300010
-      HUD_0: 21300000
+      Zustand_1: 21300000
+      Zustand_2: 21300002
+      Zustand_4: 21300006
+      Timer_1: 21300018
       HUD_7: 21300014
+      Zustand_3: 21300004
+      Hauptzustand: 21300008
+      Leben: 21300010
+      Timer_2: 21300016
+      Timer_3: 21300012
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

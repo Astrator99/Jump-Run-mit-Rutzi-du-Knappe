@@ -137,7 +137,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "Wurf Gegenst\xE4nde_0"
+      name: Gehstock
       rect:
         serializedVersion: 2
         x: 7
@@ -158,7 +158,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Wurf Gegenst\xE4nde_1"
+      name: Eisen_Schild
       rect:
         serializedVersion: 2
         x: 21
@@ -179,7 +179,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Wurf Gegenst\xE4nde_2"
+      name: "Gie\xDFkanne"
       rect:
         serializedVersion: 2
         x: 36
@@ -200,7 +200,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Wurf Gegenst\xE4nde_3"
+      name: Holz_Schild
       rect:
         serializedVersion: 2
         x: 37
@@ -221,7 +221,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Wurf Gegenst\xE4nde_4"
+      name: Spitzacke
       rect:
         serializedVersion: 2
         x: 53
@@ -242,7 +242,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Wurf Gegenst\xE4nde_5"
+      name: Hacke
       rect:
         serializedVersion: 2
         x: 70
@@ -263,7 +263,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Wurf Gegenst\xE4nde_6"
+      name: Rechen
       rect:
         serializedVersion: 2
         x: 86
@@ -284,7 +284,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Wurf Gegenst\xE4nde_7"
+      name: Baby
       rect:
         serializedVersion: 2
         x: 70
@@ -305,7 +305,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Wurf Gegenst\xE4nde_8"
+      name: Katze
       rect:
         serializedVersion: 2
         x: 83
@@ -326,7 +326,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Wurf Gegenst\xE4nde_9"
+      name: Kohle 1
       rect:
         serializedVersion: 2
         x: 23
@@ -347,7 +347,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Wurf Gegenst\xE4nde_10"
+      name: Kohle 4
       rect:
         serializedVersion: 2
         x: 71
@@ -368,7 +368,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Wurf Gegenst\xE4nde_11"
+      name: Reperatur _Set
       rect:
         serializedVersion: 2
         x: 84
@@ -389,7 +389,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Wurf Gegenst\xE4nde_12"
+      name: Eimer
       rect:
         serializedVersion: 2
         x: 21
@@ -397,7 +397,7 @@ TextureImporter:
         width: 7
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -410,7 +410,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Wurf Gegenst\xE4nde_13"
+      name: Kohle 2
       rect:
         serializedVersion: 2
         x: 39
@@ -418,7 +418,7 @@ TextureImporter:
         width: 3
         height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -431,7 +431,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Wurf Gegenst\xE4nde_14"
+      name: Kohle 3
       rect:
         serializedVersion: 2
         x: 54
@@ -439,7 +439,7 @@ TextureImporter:
         width: 4
         height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -452,7 +452,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Wurf Gegenst\xE4nde_15"
+      name: Kohle 5
       rect:
         serializedVersion: 2
         x: 87
@@ -460,7 +460,7 @@ TextureImporter:
         width: 3
         height: 3
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -473,7 +473,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Wurf Gegenst\xE4nde_16"
+      name: Kurtzschwert
       rect:
         serializedVersion: 2
         x: 55
@@ -481,7 +481,7 @@ TextureImporter:
         width: 3
         height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -494,7 +494,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Wurf Gegenst\xE4nde_17"
+      name: Langschwert
       rect:
         serializedVersion: 2
         x: 71
@@ -502,7 +502,7 @@ TextureImporter:
         width: 3
         height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -515,7 +515,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Wurf Gegenst\xE4nde_18"
+      name: Speer
       rect:
         serializedVersion: 2
         x: 88
@@ -523,7 +523,7 @@ TextureImporter:
         width: 1
         height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -546,25 +546,25 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      "Wurf Gegenst\xE4nde_14": 2120094074
-      "Wurf Gegenst\xE4nde_2": 21300004
-      "Wurf Gegenst\xE4nde_8": 21300016
-      "Wurf Gegenst\xE4nde_17": 639445535
-      "Wurf Gegenst\xE4nde_9": 21300018
-      "Wurf Gegenst\xE4nde_11": 21300022
-      "Wurf Gegenst\xE4nde_5": 21300010
-      "Wurf Gegenst\xE4nde_4": 21300008
-      "Wurf Gegenst\xE4nde_16": 1784615373
-      "Wurf Gegenst\xE4nde_6": 21300012
-      "Wurf Gegenst\xE4nde_0": 21300000
-      "Wurf Gegenst\xE4nde_7": 21300014
-      "Wurf Gegenst\xE4nde_3": 21300006
-      "Wurf Gegenst\xE4nde_15": -470499647
-      "Wurf Gegenst\xE4nde_13": 570183921
-      "Wurf Gegenst\xE4nde_10": 21300020
-      "Wurf Gegenst\xE4nde_18": 576629644
-      "Wurf Gegenst\xE4nde_1": 21300002
-      "Wurf Gegenst\xE4nde_12": 725522716
+      Hacke: 21300010
+      Baby: 21300014
+      Eimer: 725522716
+      Kohle 2: 570183921
+      Kohle 4: 21300020
+      Rechen: 21300012
+      Spitzacke: 21300008
+      Langschwert: 639445535
+      "Gie\xDFkanne": 21300004
+      Kohle 1: 21300018
+      Eisen_Schild: 21300002
+      Speer: 576629644
+      Kohle 5: -470499647
+      Kurtzschwert: 1784615373
+      Katze: 21300016
+      Gehstock: 21300000
+      Reperatur _Set: 21300022
+      Holz_Schild: 21300006
+      Kohle 3: 2120094074
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
