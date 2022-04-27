@@ -320,7 +320,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "H\xE4user_0"
+      name: Haus_hoch
       rect:
         serializedVersion: 2
         x: 0
@@ -341,7 +341,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "H\xE4user_1"
+      name: "Haus_gro\xDF"
       rect:
         serializedVersion: 2
         x: 112
@@ -362,7 +362,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "H\xE4user_2"
+      name: Haus_lang
       rect:
         serializedVersion: 2
         x: 224
@@ -383,7 +383,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "H\xE4user_3"
+      name: Haus_kurtz
       rect:
         serializedVersion: 2
         x: 336
@@ -414,10 +414,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      "H\xE4user_2": 21300004
-      "H\xE4user_3": 21300006
-      "H\xE4user_1": 21300002
-      "H\xE4user_0": 21300000
+      "Haus_gro\xDF": 21300002
+      Haus_hoch: 21300000
+      Haus_kurtz: 21300006
+      Haus_lang: 21300004
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
