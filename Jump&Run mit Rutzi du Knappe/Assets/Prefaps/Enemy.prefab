@@ -47,7 +47,7 @@ GameObject:
   - component: {fileID: 1639710773686685245}
   - component: {fileID: 1639710773686685219}
   m_Layer: 8
-  m_Name: Enemy_GumBot_01
+  m_Name: Enemy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
