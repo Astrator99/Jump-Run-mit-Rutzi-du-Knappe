@@ -89,15 +89,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BauerW01_Run_0
+      name: BauerW01_Run_1
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -110,15 +110,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BauerW01_Run_1
+      name: BauerW01_Run_2
       rect:
         serializedVersion: 2
         x: 16
         y: 0
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -131,15 +131,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BauerW01_Run_2
+      name: BauerW01_Run_3
       rect:
         serializedVersion: 2
         x: 32
         y: 0
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -154,7 +154,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: c8885b3e6abe7af418d3ac14f0f75d9b
     internalID: 0
     vertices: []
     indices: 
@@ -162,9 +162,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      BauerW01_Run_2: 21300004
-      BauerW01_Run_0: 21300000
-      BauerW01_Run_1: 21300002
+      BauerW01_Run_2: 21300002
+      BauerW01_Run_1: 21300000
+      BauerW01_Run_3: 21300004
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
