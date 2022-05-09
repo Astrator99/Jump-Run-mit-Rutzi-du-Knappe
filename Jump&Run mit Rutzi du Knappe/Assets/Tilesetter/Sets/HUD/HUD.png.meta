@@ -200,253 +200,232 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: HUD_0
+      name: HUD_Zustand 1
       rect:
         serializedVersion: 2
         x: 19
         y: 82
         width: 26
         height: 27
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
+      spriteID: 91cd7a8639ceb97448b607b71583a59e
+      internalID: 610839107
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HUD_1
+      name: HUD_Zustand 2
       rect:
         serializedVersion: 2
         x: 51
         y: 82
         width: 25
         height: 27
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
+      spriteID: 922db645bd6664c4c96fe0d315d6ce6b
+      internalID: 1765859379
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HUD_2
+      name: HUD_Zustand 3
       rect:
         serializedVersion: 2
         x: 83
         y: 82
         width: 25
         height: 27
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
+      spriteID: 9a2d17d77c75c9744a0048712170c077
+      internalID: 228627108
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HUD_3
+      name: HUD_Zustand 4
       rect:
         serializedVersion: 2
         x: 115
         y: 82
         width: 21
         height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
+      spriteID: b5e6a1b805c8e9d4b84cba03e47f8d2d
+      internalID: 2020025894
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HUD_4
+      name: HUD_Schwert
       rect:
         serializedVersion: 2
         x: 19
         y: 50
         width: 26
         height: 27
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
+      spriteID: 10bd51620ec07a64189b063a2ccdf163
+      internalID: 1067459114
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HUD_5
+      name: HUD_Figure
       rect:
         serializedVersion: 2
         x: 67
         y: 48
         width: 10
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
+      spriteID: 08c9481dd4e3cb442ba781f5c0717670
+      internalID: 2008924947
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HUD_6
+      name: HUD_Zahl 3
       rect:
         serializedVersion: 2
         x: 81
-        y: 51
-        width: 7
-        height: 11
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: HUD_7
-      rect:
-        serializedVersion: 2
-        x: 89
         y: 50
-        width: 7
-        height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 15
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
+      spriteID: 48ca2a351a54aa74abf9ab41f7e48e62
+      internalID: -739266864
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HUD_8
+      name: HUD_Zahl 2
       rect:
         serializedVersion: 2
         x: 98
         y: 50
         width: 13
         height: 12
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
+      spriteID: ce7fdb06006ae8b4e9a564f409114c67
+      internalID: -1031336774
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HUD_9
+      name: HUD_Zahl 1
       rect:
         serializedVersion: 2
         x: 115
         y: 50
         width: 11
         height: 12
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
+      spriteID: ca202bf9e19624c479964a8dd4b133c3
+      internalID: 829828612
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HUD
+      name: HUD_Fertig
       rect:
         serializedVersion: 2
         x: 16
         y: 0
         width: 64
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 43305410000000000800000000000000
-      internalID: 21300020
+      spriteID: 7b202c687923d854e85007eedba77d96
+      internalID: 610716167
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HUD_10
+      name: HUD_BG
       rect:
         serializedVersion: 2
         x: 96
         y: 0
         width: 64
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 63305410000000000800000000000000
-      internalID: 21300022
+      spriteID: a5f5878fb16e93343a77991f2be45ab6
+      internalID: -1805015956
       vertices: []
       indices: 
       edges: []
@@ -462,18 +441,18 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      HUD_3: 21300006
-      HUD_1: 21300002
-      HUD_2: 21300004
-      HUD: 21300020
-      HUD_9: 21300018
-      HUD_8: 21300016
-      HUD_6: 21300012
-      HUD_4: 21300008
-      HUD_5: 21300010
-      HUD_0: 21300000
+      HUD_Zustand 2: 1765859379
+      HUD_BG: -1805015956
+      HUD_Schwert: 1067459114
+      HUD_Zahl 2: -1031336774
+      HUD_Zahl 1: 829828612
+      HUD_Zahl 3: -739266864
+      HUD_Zustand 3: 228627108
       HUD_7: 21300014
-      HUD_10: 21300022
+      HUD_Zustand 4: 2020025894
+      HUD_Figure: 2008924947
+      HUD_Zustand 1: 610839107
+      HUD_Fertig: 610716167
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
