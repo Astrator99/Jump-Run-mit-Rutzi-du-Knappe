@@ -8,8 +8,6 @@ TagManager:
   - Game Manager
   - Player Start
   - InstantKill
-  - Checkpoint
-  - Ground
   layers:
   - Default
   - TransparentFX
@@ -17,11 +15,11 @@ TagManager:
   - 
   - Water
   - UI
-  - PLayer
-  - Checkpoint
   - Walkable
-  - Enemy
   - Enemy Wall
+  - Enemy
+  - 
+  - 
   - 
   - 
   - 
