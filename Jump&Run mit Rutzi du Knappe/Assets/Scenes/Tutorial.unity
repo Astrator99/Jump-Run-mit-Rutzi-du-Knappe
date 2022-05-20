@@ -517,7 +517,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &180992844
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1605,7 +1605,9 @@ MonoBehaviour:
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"ContinueGameButton","value":{"$content":5,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Button,
       UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"OptionButton","value":{"$content":6,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Button,
       UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"ExitButton","value":{"$content":7,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Button,
-      UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"HealthText","value":{"$content":8,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"TMPro.TextMeshProUGUI,
+      Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"SwordHealth","value":{"$content":9,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 77188601}
     - {fileID: 1503769873}
@@ -1615,6 +1617,8 @@ MonoBehaviour:
     - {fileID: 790239142}
     - {fileID: 462821214}
     - {fileID: 1679138745}
+    - {fileID: 1884881767}
+    - {fileID: 1209668663}
 --- !u!114 &468665770
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4685,6 +4689,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5414613901730368764, guid: dc5c8a16215f04d4488c8019a83e5d3b, type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 5414613901730368766, guid: dc5c8a16215f04d4488c8019a83e5d3b, type: 3}
       propertyPath: m_Controller
       value: 
@@ -5584,7 +5592,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 1.4201937, y: 1}
+    m_SensorSize: {x: 1.7777778, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -6847,6 +6855,10 @@ PrefabInstance:
       propertyPath: m_Controller
       value: 
       objectReference: {fileID: 9100000, guid: a933499464c83ef41a6318fb8d06b698, type: 2}
+    - target: {fileID: 3659499896174695298, guid: e53799b233c894e4bb8670699fbe66b6, type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3659499896174695303, guid: e53799b233c894e4bb8670699fbe66b6, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -7471,7 +7483,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1617191220
 RectTransform:
   m_ObjectHideFlags: 0
@@ -7489,8 +7501,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 85, y: 0}
-  m_SizeDelta: {x: 85, y: 84}
+  m_AnchoredPosition: {x: 81.78461, y: 0}
+  m_SizeDelta: {x: 81.7846, y: 84}
   m_Pivot: {x: 1, y: 1}
 --- !u!114 &1617191221
 MonoBehaviour:
@@ -24344,7 +24356,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: --
+  m_text: 3x
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -24804,7 +24816,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1967706121
 RectTransform:
   m_ObjectHideFlags: 0
@@ -24822,8 +24834,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 85, y: 0}
-  m_SizeDelta: {x: 85, y: 84}
+  m_AnchoredPosition: {x: 81.785, y: 0}
+  m_SizeDelta: {x: 81.785, y: 84}
   m_Pivot: {x: 1, y: 1}
 --- !u!114 &1967706122
 MonoBehaviour:
@@ -25058,6 +25070,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5548875326658358980, guid: c5a238d4101d6f746aec7e63430996c2, type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 5548875326658359000, guid: c5a238d4101d6f746aec7e63430996c2, type: 3}
       propertyPath: _data._json
       value: '{"declarations":{"collection":{"$content":[{"name":"Move_Speed","value":{"$content":0.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
@@ -25188,7 +25204,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &2036492094
 RectTransform:
   m_ObjectHideFlags: 0
@@ -25206,8 +25222,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 85, y: 0}
-  m_SizeDelta: {x: 85, y: 84}
+  m_AnchoredPosition: {x: 68.722, y: -15.6751}
+  m_SizeDelta: {x: 68.722, y: 68.3249}
   m_Pivot: {x: 1, y: 1}
 --- !u!114 &2036492095
 MonoBehaviour:
