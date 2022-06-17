@@ -9,7 +9,23 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2959797539396510216, guid: 299ea385d57dc964b9d6da3c44a4cff5, type: 3}
       propertyPath: m_Name
-      value: Katze Variant
+      value: Object Katze Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 2959797539396510220, guid: 299ea385d57dc964b9d6da3c44a4cff5, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2959797539396510220, guid: 299ea385d57dc964b9d6da3c44a4cff5, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2959797539396510220, guid: 299ea385d57dc964b9d6da3c44a4cff5, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2959797539396510220, guid: 299ea385d57dc964b9d6da3c44a4cff5, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2959797539396510222, guid: 299ea385d57dc964b9d6da3c44a4cff5, type: 3}
       propertyPath: m_RootOrder
@@ -55,9 +71,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2959797539396510223, guid: 299ea385d57dc964b9d6da3c44a4cff5, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2959797539396510223, guid: 299ea385d57dc964b9d6da3c44a4cff5, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2959797539396510223, guid: 299ea385d57dc964b9d6da3c44a4cff5, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 816186631, guid: 9ec27ccbf373ba74e9255f06879570ac, type: 3}
+    - target: {fileID: 2959797539396510223, guid: 299ea385d57dc964b9d6da3c44a4cff5, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7610871270624074720, guid: 299ea385d57dc964b9d6da3c44a4cff5, type: 3}
       propertyPath: _data._json
-      value: '{"declarations":{"collection":{"$content":[{"name":"Throwspeed X","value":{"$content":20.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Throwspeed
+        X","value":{"$content":20.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Throwspeed
         Y","value":{"$content":60.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'

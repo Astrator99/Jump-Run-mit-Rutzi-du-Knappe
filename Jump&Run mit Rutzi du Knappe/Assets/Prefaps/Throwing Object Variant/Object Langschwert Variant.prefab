@@ -9,15 +9,23 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2959797539396510216, guid: 299ea385d57dc964b9d6da3c44a4cff5, type: 3}
       propertyPath: m_Name
-      value: Object Langschwert
+      value: Object Langschwert Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 2959797539396510220, guid: 299ea385d57dc964b9d6da3c44a4cff5, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2959797539396510220, guid: 299ea385d57dc964b9d6da3c44a4cff5, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2959797539396510220, guid: 299ea385d57dc964b9d6da3c44a4cff5, type: 3}
       propertyPath: m_SpriteTilingProperty.oldSize.x
-      value: 0.1875
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2959797539396510220, guid: 299ea385d57dc964b9d6da3c44a4cff5, type: 3}
       propertyPath: m_SpriteTilingProperty.oldSize.y
-      value: 0.6875
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2959797539396510222, guid: 299ea385d57dc964b9d6da3c44a4cff5, type: 3}
       propertyPath: m_RootOrder
@@ -64,8 +72,20 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2959797539396510223, guid: 299ea385d57dc964b9d6da3c44a4cff5, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2959797539396510223, guid: 299ea385d57dc964b9d6da3c44a4cff5, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2959797539396510223, guid: 299ea385d57dc964b9d6da3c44a4cff5, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 639445535, guid: d48082a8a47b8ebaa3ab7a9a03f769a4, type: 3}
+      objectReference: {fileID: -2142198695, guid: 9ec27ccbf373ba74e9255f06879570ac, type: 3}
+    - target: {fileID: 2959797539396510223, guid: 299ea385d57dc964b9d6da3c44a4cff5, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 299ea385d57dc964b9d6da3c44a4cff5, type: 3}
