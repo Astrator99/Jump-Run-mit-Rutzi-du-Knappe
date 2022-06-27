@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7e417f7c0aa9f0543b45d5c603009e2a
+guid: 3cd600f7e5cb2914bb7a5e7e40fc490f
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -104,64 +104,22 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Plattform_W
+      name: Balken
       rect:
         serializedVersion: 2
         x: 0
-        y: 92
-        width: 64
-        height: 12
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        y: 20
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c42ccd07cc9d7a649924624be411bbe7
-      internalID: -1309031301
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kiste_Lang
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 64
-        width: 36
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7d45b6b4a02f7c3438dc9cd0ada123fa
-      internalID: -202630196
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "Kiste_Gro\xDF"
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 64
-        width: 60
-        height: 60
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 927e95511953f464b8c95f6f9cf47116
-      internalID: 1329067770
+      spriteID: 6e9be26ccc4ccaa41a7d0b4317fc4e18
+      internalID: 315062126
       vertices: []
       indices: 
       edges: []
@@ -170,82 +128,61 @@ TextureImporter:
       name: Leiter
       rect:
         serializedVersion: 2
-        x: 319
+        x: 20
         y: 0
-        width: 64
-        height: 128
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cf8c5379557627f4daa4f952ef39c1c4
-      internalID: -2065253322
+      spriteID: 4dac4d693aeac264c9253f09a77d7f86
+      internalID: 2087173633
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Leiter_\xDCberwuchert"
+      name: Leiter_bemoost
       rect:
         serializedVersion: 2
-        x: 384
+        x: 35
         y: 0
-        width: 64
-        height: 128
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 39d8ffb6769b9034fa12e2a80bd55bb8
-      internalID: 876139971
+      spriteID: 892fc56875bc9624eaa96267904a1f9e
+      internalID: 1495747104
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plattform_H
+      name: Kiste
       rect:
         serializedVersion: 2
-        x: 92
+        x: 0
         y: 0
-        width: 12
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d7953a5747a53ef4592c11fcdc72a671
-      internalID: -1299291935
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kiste_Klein
-      rect:
-        serializedVersion: 2
-        x: 208
-        y: 0
-        width: 36
-        height: 36
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6d0ff2a7b25a22048b2f70672b036b93
-      internalID: 1558034567
+      spriteID: 3ecceb91ddd12e54dbf870ac82b44082
+      internalID: -1473579957
       vertices: []
       indices: 
       edges: []
@@ -254,19 +191,19 @@ TextureImporter:
       name: Burgfenster
       rect:
         serializedVersion: 2
-        x: 468
+        x: 53
         y: 0
-        width: 88
-        height: 80
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4ed8651509118db4b96f6cccfe67571f
-      internalID: 264958092
+      spriteID: 0ca558cf9431aad4db8f3f59828d4fc3
+      internalID: 1793217024
       vertices: []
       indices: 
       edges: []
@@ -282,24 +219,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Plattform_W: -1309031301
-      Umgebung_02-Sheet_7: -351772234
-      Umgebung_02-Sheet_9: 371499215
-      Umgebung_02-Sheet_16: 145943459
-      Umgebung_02-Sheet_11: 763984419
-      Umgebung_02-Sheet_3: -1370669429
-      Kiste_Klein: 1558034567
-      Umgebung_02-Sheet_1: 165629476
-      Umgebung_02-Sheet_13: -556570429
-      Plattform_H: -1299291935
-      "Kiste_Gro\xDF": 1329067770
-      Kiste_Lang: -202630196
-      Umgebung_02-Sheet_14: 10027714
-      Umgebung_02-Sheet_15: -786008014
-      "Leiter_\xDCberwuchert": 876139971
-      Leiter: -2065253322
-      Burgfenster: 264958092
-      Umgebung_02-Sheet_8: 848211034
+      Kiste: -1473579957
+      Balken: 315062126
+      Leiter_bemoost: 1495747104
+      Leiter: 2087173633
+      Burgfenster: 1793217024
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
