@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3a9a888cffcb6cd4795cf9045502201a
+guid: 4fc6d6e1ca42ba84db93861cf9b1ceaa
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -107,19 +107,19 @@ TextureImporter:
       name: Stammbaum
       rect:
         serializedVersion: 2
-        x: 32
+        x: 0
         y: 0
-        width: 204
-        height: 252
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 00628d37b3baa7e4e8edac091bae7391
-      internalID: -1066932980
+      spriteID: 059aba404a25cb64b85929bed1ab9d65
+      internalID: -168639362
       vertices: []
       indices: 
       edges: []
@@ -128,19 +128,19 @@ TextureImporter:
       name: Tannenbaum
       rect:
         serializedVersion: 2
-        x: 280
-        y: 128
-        width: 84
-        height: 128
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 52
+        y: 32
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e35b4e243b419d499eff1557e7c5300
-      internalID: -1042340107
+      spriteID: 3f12cd526ef0d924aa2c4c5cd6f013fa
+      internalID: -1448319354
       vertices: []
       indices: 
       edges: []
@@ -149,40 +149,19 @@ TextureImporter:
       name: Checkpoint
       rect:
         serializedVersion: 2
-        x: 412
-        y: 128
-        width: 24
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 85
+        y: 48
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d5a3b737a0690304eb725a18b32d45de
-      internalID: 1782921262
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Brunnen
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 0
-        width: 128
-        height: 96
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e8f137e470b2f2446b8110a3cf615457
-      internalID: -345704013
+      spriteID: b3301b924d4b10f4eb402f59d24076bb
+      internalID: 624935920
       vertices: []
       indices: 
       edges: []
@@ -191,19 +170,145 @@ TextureImporter:
       name: Ziel
       rect:
         serializedVersion: 2
-        x: 412
-        y: 192
-        width: 24
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 101
+        y: 48
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d179b255ee712004da5b05f8f246bbef
-      internalID: 470713185
+      spriteID: 8a959f7bd2713324485d980ddfe740d9
+      internalID: 1028379228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stein 01
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 32
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8ffed5dcfbdb14f9d93b5923f97730
+      internalID: -859215918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stein 02
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 32
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7ba3cf522c4f54889b534a34f9270b
+      internalID: 1819670359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gras 01
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 16
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6256631a2d8b7544b3bf8f22c27c74c
+      internalID: 1916368416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gras 02
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f38e30ace38b943809515ef5db93b4
+      internalID: 2111283324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunnen
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2098b2945e2cf154dbe46dd215a4f302
+      internalID: 562732071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gras 03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f018798405fb4a74eabc534172d245a8
+      internalID: 1147614882
       vertices: []
       indices: 
       edges: []
@@ -219,11 +324,17 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Brunnen: -345704013
-      Tannenbaum: -1042340107
-      Stammbaum: -1066932980
-      Checkpoint: 1782921262
-      Ziel: 470713185
+      Brunnen: 562732071
+      Gras 02: 2111283324
+      Tannenbaum: -1448319354
+      Umgebung_01-Sheet_8: -1870948052
+      Stein 01: -859215918
+      Gras 01: 1916368416
+      Stammbaum: -168639362
+      Stein 02: 1819670359
+      Gras 03: 1147614882
+      Checkpoint: 624935920
+      Ziel: 1028379228
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
