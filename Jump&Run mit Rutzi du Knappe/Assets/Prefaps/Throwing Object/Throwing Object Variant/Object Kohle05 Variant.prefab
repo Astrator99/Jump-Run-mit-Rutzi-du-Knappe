@@ -49,11 +49,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2959797539396510222, guid: 299ea385d57dc964b9d6da3c44a4cff5, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 5
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2959797539396510222, guid: 299ea385d57dc964b9d6da3c44a4cff5, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 4
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2959797539396510222, guid: 299ea385d57dc964b9d6da3c44a4cff5, type: 3}
       propertyPath: m_LocalPosition.z
@@ -65,15 +65,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2959797539396510222, guid: 299ea385d57dc964b9d6da3c44a4cff5, type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2959797539396510222, guid: 299ea385d57dc964b9d6da3c44a4cff5, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2959797539396510222, guid: 299ea385d57dc964b9d6da3c44a4cff5, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2959797539396510222, guid: 299ea385d57dc964b9d6da3c44a4cff5, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -102,6 +102,16 @@ PrefabInstance:
     - target: {fileID: 2959797539396510223, guid: 299ea385d57dc964b9d6da3c44a4cff5, type: 3}
       propertyPath: m_WasSpriteAssigned
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7610871270624074720, guid: 299ea385d57dc964b9d6da3c44a4cff5, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Throwspeed
+        X","value":{"$content":20.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Throwspeed
+        Y","value":{"$content":60.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Destroy
+        Delay","value":{"$content":1.25,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 299ea385d57dc964b9d6da3c44a4cff5, type: 3}
