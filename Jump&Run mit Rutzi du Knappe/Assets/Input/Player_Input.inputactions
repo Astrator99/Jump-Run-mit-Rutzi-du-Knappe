@@ -1,5 +1,5 @@
 {
-    "name": "Player_Bewegung",
+    "name": "Player_Input",
     "maps": [
         {
             "name": "Player",
@@ -36,6 +36,15 @@
                     "name": "Pause",
                     "type": "Button",
                     "id": "448f6058-eee9-4833-b176-d144757cc75c",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Healing",
+                    "type": "Button",
+                    "id": "3b4d9219-2c6a-49de-9d49-17f2e56f6382",
                     "expectedControlType": "Button",
                     "processors": "",
                     "interactions": "",
@@ -205,6 +214,28 @@
                     "processors": "",
                     "groups": "Gamepad",
                     "action": "Pause",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "bfbe69a5-d4ef-4ff2-bb57-17d6fe0a761d",
+                    "path": "<Keyboard>/e",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Healing",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "fc152c08-7c1e-4903-a103-3977b8984fb9",
+                    "path": "<Keyboard>/q",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Healing",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
