@@ -22,7 +22,7 @@ GameObject:
   - component: {fileID: 713084391112390211}
   m_Layer: 0
   m_Name: SFXAudioManager
-  m_TagString: Untagged
+  m_TagString: SFXAudio
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -90,13 +90,13 @@ MonoBehaviour:
       UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 713084391112390234}
-    - {fileID: 713084391112390234}
-    - {fileID: 713084391112390234}
-    - {fileID: 713084391112390234}
-    - {fileID: 713084391112390234}
-    - {fileID: 713084391112390234}
-    - {fileID: 713084391112390234}
-    - {fileID: 713084391112390234}
+    - {fileID: 713084391112390213}
+    - {fileID: 713084391112390212}
+    - {fileID: 713084391112390215}
+    - {fileID: 713084391112390214}
+    - {fileID: 713084391112390209}
+    - {fileID: 713084391112390208}
+    - {fileID: 713084391112390211}
 --- !u!82 &713084391112390234
 AudioSource:
   m_ObjectHideFlags: 0

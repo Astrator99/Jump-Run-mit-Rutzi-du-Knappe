@@ -8,6 +8,7 @@ TagManager:
   - Game Manager
   - Player Start
   - InstantKill
+  - SFXAudio
   layers:
   - Default
   - TransparentFX
