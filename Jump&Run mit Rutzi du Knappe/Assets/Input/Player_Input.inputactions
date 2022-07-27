@@ -197,6 +197,17 @@
                 },
                 {
                     "name": "",
+                    "id": "c3d9f7b8-8ee4-40ae-9df5-cb11e1e2894a",
+                    "path": "<Gamepad>/start",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Gamepad",
+                    "action": "Pause",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
                     "id": "6f9dab9c-a72b-49a6-b03b-80c7c3f778cc",
                     "path": "<Keyboard>/escape",
                     "interactions": "",
@@ -208,12 +219,23 @@
                 },
                 {
                     "name": "",
-                    "id": "c3d9f7b8-8ee4-40ae-9df5-cb11e1e2894a",
-                    "path": "<Gamepad>/start",
+                    "id": "689dbd11-3ea8-4d34-97fa-f911dfff8a1e",
+                    "path": "<Gamepad>/leftTrigger",
                     "interactions": "",
                     "processors": "",
-                    "groups": "Gamepad",
-                    "action": "Pause",
+                    "groups": "",
+                    "action": "Healing",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "adcd1b52-f47f-4dd6-a815-52190d8fde08",
+                    "path": "<Gamepad>/rightTrigger",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Healing",
                     "isComposite": false,
                     "isPartOfComposite": false
                 },
