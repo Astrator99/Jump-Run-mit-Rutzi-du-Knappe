@@ -4687,7 +4687,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 991798069}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -2}
+  m_LocalPosition: {x: 0, y: 0, z: 10}
   m_LocalScale: {x: 1.3, y: 1.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4909,7 +4909,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: -1
+  m_SortingOrder: -2
   m_Sprite: {fileID: 1795046978, guid: 1ca49c9f78bcd58499bf98cd8af7c161, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -5083,7 +5083,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: -1
+  m_SortingOrder: -2
   m_Sprite: {fileID: 1795046978, guid: 1ca49c9f78bcd58499bf98cd8af7c161, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -5106,6 +5106,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Checkpoint (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6517204206063648216, guid: dc9f748c2beff8a4ebad4ea4fcd9d09c, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 1178745171}
     - target: {fileID: 6517204206063648219, guid: dc9f748c2beff8a4ebad4ea4fcd9d09c, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -6335,7 +6339,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1544037472}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -2}
+  m_LocalPosition: {x: 0, y: 0, z: 10}
   m_LocalScale: {x: 1.3, y: 1.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -6723,7 +6727,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: -1
+  m_SortingOrder: -2
   m_Sprite: {fileID: 1795046978, guid: 1ca49c9f78bcd58499bf98cd8af7c161, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -12134,7 +12138,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1932495957}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -2}
+  m_LocalPosition: {x: 0, y: 0, z: 10}
   m_LocalScale: {x: 2.6, y: 2, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -12513,6 +12517,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Checkpoint
       objectReference: {fileID: 0}
+    - target: {fileID: 6517204206063648216, guid: dc9f748c2beff8a4ebad4ea4fcd9d09c, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 1178745171}
     - target: {fileID: 6517204206063648219, guid: dc9f748c2beff8a4ebad4ea4fcd9d09c, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -13506,20 +13514,6 @@ PrefabInstance:
     - target: {fileID: 1132291822504141842, guid: 95db714b4e48d9a4e88c6f1075f50d57, type: 3}
       propertyPath: m_Name
       value: Bauer
-      objectReference: {fileID: 0}
-    - target: {fileID: 2148384856245392200, guid: 95db714b4e48d9a4e88c6f1075f50d57, type: 3}
-      propertyPath: _data._json
-      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Move_Speed","value":{"$content":0.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
-        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Wall_Check_Size","value":{"x":0.7,"y":0.2,"$type":"UnityEngine.Vector2"},"typeHandle":{"Identification":"UnityEngine.Vector2,
-        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Ground_Layer","value":{"value":192,"$type":"UnityEngine.LayerMask"},"typeHandle":{"Identification":"UnityEngine.LayerMask,
-        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Thrower","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.Transform,
-        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"direction
-        of throw","value":{"x":1.5,"y":1.2,"$type":"UnityEngine.Vector2"},"typeHandle":{"Identification":"UnityEngine.Vector2,
-        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Throw
-        Object list","value":{"$content":[1,2,3,4,5],"$type":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
-        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
-        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],
-        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     - target: {fileID: 6466747852195648717, guid: 95db714b4e48d9a4e88c6f1075f50d57, type: 3}
       propertyPath: m_RootOrder

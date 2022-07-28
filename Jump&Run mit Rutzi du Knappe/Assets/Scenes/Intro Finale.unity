@@ -226,7 +226,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 1156610489743104523, guid: 0e0c75a86dd1a4e4a9f5e424c24327a6, type: 2}
-  m_audioClip: {fileID: 8300000, guid: fe47934e5f59fca41a06575235f53f53, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 4a413f29b4f80e3478be6c19a742c22b, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 0.5
   m_Pitch: 1
@@ -972,18 +972,19 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Es handelt sich um einen jungen Knappen namens Rutzi der in der Schmiede
-    seines Vaters Grustav arbeitete und f\xFCr ihm die Lieferungen eines Schwertes
-    erledigen muss.\n\nDabei wird er verschiedene Orte durchqueren m\xFCssen wie
-    das Dorf, die Mine und das Dorf vor der  Burg, wo sich der Ritter Dudeldei sich
-    aufh\xE4lt.\n\nRutzi der nicht nur in der Werkstatt seines Vaters aushilft, geht
-    auch gern feiern, saufen und sich mit anderen pr\xFCgeln. Was daf\xFCr sorgte,
-    dass einige Bauern und Rittern nicht sehr erfreut sind, ihn zusehen.\r\nRutzi
-    bekommt von seinem Vater den Auftrag, das Schwert zum Ritter Dudeldei zu \xFCberbringen
-    und das unversehrt wie m\xF6glich.\r \r\nAber auf dem Weg dorthin muss er sich
-    vor vielen ver\xE4rgerte Bauern und Rittern nicht erwischen zu lassen vor deren
-    Versuch, deinen Auftrag zu vermasseln, so wie drauf zu achten, das unterwegs
-    dem Schwert nichts geschieht."
+  m_text: "\"!Gl\xFCckwunsch du hast es geschafft!\"\n\n\nIch m\xF6chte mich daf\xFCr
+    bedanken, das dus durch gespielt hast und hoffe das es dir auch gefallen hat
+    :)\n\n\nDies ist mein erstes Spiel in f\xFCr dieses Semester, da ich eine Ausbildung
+    zum Spiele Creat\xE9r mache und m\xF6chte mich noch daf\xFCr bedanken, f\xFCr
+    all die Hilfe, die ich bekamm um dieses Spiel zu erschaffen, mit inklusive all
+    den Feedbacks von meinen Playtestern.\n\nDanke an euch,\n\tmeine Dozenten:\n\n\tVeniamin
+    Klein\n\tRen\xE9 Gamper\n\tVolker K\xFChn\n\tJan P\xF6ppler\n\tRichard Schmidbauer\n\n\tunsere
+    Sidekicks:\n\n\tKamil 6A | Limak\n\tMarvin\n\n\tvor allem meine Klasse 1B\n\tdie
+    mich zu so vielem inspirierten\n\tund das wir so gut zusammen hielten \n\tsowie
+    funktionierten.\n\n\tmeinen Playtestern:\n\n\tVeniamin Klein\n\tprobablyjes\n\tJulian
+    B. 2C | Inaaka\n\tCross9S\n\tYves 1B | Sp1tF1re\n\tS\xF6ren | Sateklon (der mein
+    Spiel \n\tkomplet zerlegte, damit ja auch kein\n\teinziger Bug in mein Spiel
+    bleibt xD)\n\t"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 4d1633cb3fea59d46b364e0ab97a1d38, type: 2}
   m_sharedMaterial: {fileID: 267140593505574653, guid: 4d1633cb3fea59d46b364e0ab97a1d38, type: 2}
@@ -1017,7 +1018,7 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 1
+  m_HorizontalAlignment: 2
   m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
