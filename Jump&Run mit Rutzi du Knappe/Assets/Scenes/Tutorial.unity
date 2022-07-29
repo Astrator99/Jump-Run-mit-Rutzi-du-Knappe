@@ -665,11 +665,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Repairkit (1)
       objectReference: {fileID: 0}
-    - target: {fileID: 1727860577251484942, guid: c92e8f6b793863d47aca663f773149c9, type: 3}
-      propertyPath: _data._json
-      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"RepairkitValue","value":{"$content":2.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
-        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
-      objectReference: {fileID: 0}
     - target: {fileID: 1727860577251484943, guid: c92e8f6b793863d47aca663f773149c9, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -5106,10 +5101,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Checkpoint (1)
       objectReference: {fileID: 0}
-    - target: {fileID: 6517204206063648216, guid: dc9f748c2beff8a4ebad4ea4fcd9d09c, type: 3}
-      propertyPath: _data._objectReferences.Array.data[0]
-      value: 
-      objectReference: {fileID: 1178745171}
     - target: {fileID: 6517204206063648219, guid: dc9f748c2beff8a4ebad4ea4fcd9d09c, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -12517,10 +12508,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Checkpoint
       objectReference: {fileID: 0}
-    - target: {fileID: 6517204206063648216, guid: dc9f748c2beff8a4ebad4ea4fcd9d09c, type: 3}
-      propertyPath: _data._objectReferences.Array.data[0]
-      value: 
-      objectReference: {fileID: 1178745171}
     - target: {fileID: 6517204206063648219, guid: dc9f748c2beff8a4ebad4ea4fcd9d09c, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -12772,10 +12759,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1242620130}
     m_Modifications:
-    - target: {fileID: 1727860577251484939, guid: c92e8f6b793863d47aca663f773149c9, type: 3}
-      propertyPath: m_UpdateMode
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 1727860577251484940, guid: c92e8f6b793863d47aca663f773149c9, type: 3}
       propertyPath: m_Name
       value: Repairkit
@@ -13126,11 +13109,12 @@ PrefabInstance:
         Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"SwordHealth","value":{"$content":13,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Image,
         UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"EventSystem","value":{"$content":14,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.EventSystems.EventSystem,
         UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"SFXAudioManager","value":{"$content":15,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.AudioSource,
-        UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+        UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Animator","value":{"$content":16,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.Animator,
+        UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     - target: {fileID: 3443726539315920952, guid: 9eb982f31b958a14e976571ea52ede54, type: 3}
       propertyPath: _data._objectReferences.Array.size
-      value: 16
+      value: 17
       objectReference: {fileID: 0}
     - target: {fileID: 3443726539315920952, guid: 9eb982f31b958a14e976571ea52ede54, type: 3}
       propertyPath: _data._objectReferences.Array.data[3]
@@ -13184,6 +13168,10 @@ PrefabInstance:
       propertyPath: _data._objectReferences.Array.data[15]
       value: 
       objectReference: {fileID: 1178745171}
+    - target: {fileID: 3443726539315920952, guid: 9eb982f31b958a14e976571ea52ede54, type: 3}
+      propertyPath: _data._objectReferences.Array.data[16]
+      value: 
+      objectReference: {fileID: 6886701902766371283, guid: de6da663b14918a4f9f61d11bdb40f77, type: 3}
     - target: {fileID: 3443726539457345590, guid: 9eb982f31b958a14e976571ea52ede54, type: 3}
       propertyPath: m_IsActive
       value: 1

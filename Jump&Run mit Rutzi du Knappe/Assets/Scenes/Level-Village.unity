@@ -6849,11 +6849,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Repairkit (1)
       objectReference: {fileID: 0}
-    - target: {fileID: 1727860577251484942, guid: c92e8f6b793863d47aca663f773149c9, type: 3}
-      propertyPath: _data._json
-      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"RepairkitValue","value":{"$content":2.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
-        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
-      objectReference: {fileID: 0}
     - target: {fileID: 1727860577251484943, guid: c92e8f6b793863d47aca663f773149c9, type: 3}
       propertyPath: m_RootOrder
       value: 1
