@@ -226,7 +226,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 1156610489743104523, guid: 0e0c75a86dd1a4e4a9f5e424c24327a6, type: 2}
-  m_audioClip: {fileID: 8300000, guid: cdf53ef1886b8954da83ec5df49962f3, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 039682901293d3c46a829b303f2e7a80, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 0.5
   m_Pitch: 1
@@ -950,7 +950,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 630, y: 60}
+  m_SizeDelta: {x: 360, y: 60}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1723326457
 MonoBehaviour:
@@ -972,18 +972,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Es handelt sich um einen jungen Knappen namens Rutzi der in der Schmiede
-    seines Vaters Grustav arbeitete und f\xFCr ihm die Lieferungen eines Schwertes
-    erledigen muss.\n\nDabei wird er verschiedene Orte durchqueren m\xFCssen wie
-    das Dorf, die Mine und das Dorf vor der  Burg, wo sich der Ritter Dudeldei sich
-    aufh\xE4lt.\n\nRutzi der nicht nur in der Werkstatt seines Vaters aushilft, geht
-    auch gern feiern, saufen und sich mit anderen pr\xFCgeln. Was daf\xFCr sorgte,
-    dass einige Bauern und Rittern nicht sehr erfreut sind, ihn zusehen.\r\nRutzi
-    bekommt von seinem Vater den Auftrag, das Schwert zum Ritter Dudeldei zu \xFCberbringen
-    und das unversehrt wie m\xF6glich.\r \r\nAber auf dem Weg dorthin muss er sich
-    vor vielen ver\xE4rgerte Bauern und Rittern nicht erwischen zu lassen vor deren
-    Versuch, deinen Auftrag zu vermasseln, so wie drauf zu achten, das unterwegs
-    dem Schwert nichts geschieht."
+  m_text: "\"!Game Over!\"\n\n\nDanke das dus zumindestens versucht hast :)\n\nViel
+    Erfolg beim n\xE4chsten mal xD\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 4d1633cb3fea59d46b364e0ab97a1d38, type: 2}
   m_sharedMaterial: {fileID: 267140593505574653, guid: 4d1633cb3fea59d46b364e0ab97a1d38, type: 2}
@@ -993,7 +983,7 @@ MonoBehaviour:
   m_fontColor32:
     serializedVersion: 2
     rgba: 4278213375
-  m_fontColor: {r: 1, g: 0.3529412, b: 0, a: 1}
+  m_fontColor: {r: 1, g: 0.35239166, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -1017,7 +1007,7 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 1
+  m_HorizontalAlignment: 2
   m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -1109,8 +1099,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _data:
     _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"SkipButton","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Button,
-      UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"NextLevel","value":{"$content":"Tutorial","$type":"System.String"},"typeHandle":{"Identification":"System.String,
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Timer","value":{"$content":40.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+      UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"NextLevel","value":{"$content":"Menu","$type":"System.String"},"typeHandle":{"Identification":"System.String,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Timer","value":{"$content":25.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 1255894167}

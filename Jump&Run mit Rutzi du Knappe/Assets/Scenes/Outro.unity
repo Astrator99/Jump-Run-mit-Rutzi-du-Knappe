@@ -174,7 +174,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 0.39215687}
+  m_Color: {r: 0, g: 0, b: 0, a: 0.78431374}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -409,7 +409,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.74509805}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.627451}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -657,7 +657,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 375.75, y: -468.25}
+  m_AnchoredPosition: {x: 815, y: -460}
   m_SizeDelta: {x: 280, y: 180}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1296236421
@@ -950,7 +950,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 250, y: 50}
+  m_SizeDelta: {x: 630, y: 60}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1723326457
 MonoBehaviour:
@@ -972,19 +972,20 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\"!Gl\xFCckwunsch du hast es geschafft!\"\n\n\nIch m\xF6chte mich daf\xFCr
+  m_text: "\"! Gl\xFCckwunsch du hast es geschafft !\"\n\n\nIch m\xF6chte mich daf\xFCr
     bedanken, das dus durch gespielt hast und hoffe das es dir auch gefallen hat
     :)\n\n\nDies ist mein erstes Spiel in f\xFCr dieses Semester, da ich eine Ausbildung
-    zum Spiele Creat\xE9r mache und m\xF6chte mich noch daf\xFCr bedanken, f\xFCr
-    all die Hilfe, die ich bekamm um dieses Spiel zu erschaffen, mit inklusive all
+    zum Spiele Creat\xE9r mache und m\xF6chte mich noch daf\xFCr bedanken f\xFCr
+    all die Hilfe, die ich bekam um dieses Spiel zu erschaffen, mit inklusive all
     den Feedbacks von meinen Playtestern.\n\nDanke an euch,\n\tmeine Dozenten:\n\n\tVeniamin
     Klein\n\tRen\xE9 Gamper\n\tVolker K\xFChn\n\tJan P\xF6ppler\n\tRichard Schmidbauer\n\n\tunsere
     Sidekicks:\n\n\tKamil 6A | Limak\n\tMarvin\n\n\tvor allem meine Klasse 1B\n\tdie
-    mich zu so vielem inspirierten\n\tund das wir so gut zusammen hielten \n\tsowie
+    mich zu so vielem inspirierten\n\tund das wir so gut zusammen \n\thielten sowie
     funktionierten.\n\n\tmeinen Playtestern:\n\n\tVeniamin Klein\n\tprobablyjes\n\tJulian
-    B. 2C | Inaaka\n\tCross9S\n\tYves 1B | Sp1tF1re\n\tS\xF6ren | Sateklon (der mein
-    Spiel \n\tkomplet zerlegte, damit ja auch kein\n\teinziger Bug in mein Spiel
-    bleibt xD)\n\t"
+    B. 2C | Inaaka\n\tCross9S\n\tAngi | Kemi\n\tYves 1B | Sp1tF1re\n\tS\xF6ren |
+    Sateklon (der mein Spiel \n\tkomplet zerlegte, damit ja\n\tauch kein einziger
+    Bug in mein\n\tSpiel bleibt xD)\n\n\tVielen Dank an die uns\n\tihre Musik und
+    Sounds zu \n\tVerf\xFCgung gestellt haben:\n\n\tEpidemic Sound\n\tWeLoveIndies"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 4d1633cb3fea59d46b364e0ab97a1d38, type: 2}
   m_sharedMaterial: {fileID: 267140593505574653, guid: 4d1633cb3fea59d46b364e0ab97a1d38, type: 2}
@@ -993,8 +994,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4278190080
-  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
+    rgba: 4278213375
+  m_fontColor: {r: 1, g: 0.3529412, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -1011,14 +1012,14 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 21
-  m_fontSizeBase: 21
+  m_fontSize: 38
+  m_fontSizeBase: 38
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 2
+  m_HorizontalAlignment: 1
   m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -1111,6 +1112,7 @@ MonoBehaviour:
   _data:
     _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"SkipButton","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Button,
       UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"NextLevel","value":{"$content":"Menu","$type":"System.String"},"typeHandle":{"Identification":"System.String,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Timer","value":{"$content":60.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 1255894167}
